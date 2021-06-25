@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM python:3.10.0a7
 MAINTAINER Paulus Schoutsen <Paulus@PaulusSchoutsen.nl>
 
 VOLUME /config
