@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM python:rc-buster
 MAINTAINER Paulus Schoutsen <Paulus@PaulusSchoutsen.nl>
 
 VOLUME /config
