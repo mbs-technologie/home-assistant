@@ -16,7 +16,7 @@ async_timeout==1.1.0
 PyISY==1.0.7
 
 # homeassistant.components.notify.html5
-PyJWT==1.4.2
+PyJWT==2.4.0
 
 # homeassistant.components.arduino
 PyMata==2.13
