@@ -535,7 +535,7 @@ speedtest-cli==1.0.0
 
 # homeassistant.components.recorder
 # homeassistant.scripts.db_migrator
-sqlalchemy==1.1.4
+sqlalchemy==1.2.18
 
 # homeassistant.components.statsd
 statsd==3.2.1
@@ -609,3 +609,4 @@ yahooweather==0.8
 
 # homeassistant.components.zeroconf
 zeroconf==0.17.6
+protobuf>=3.18.3 # not directly required, pinned by Snyk to avoid a vulnerability
