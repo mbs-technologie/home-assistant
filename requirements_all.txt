@@ -1,5 +1,5 @@
 # Home Assistant core
-requests>=2,<3
+requests>=2.32.0,<3
 pyyaml>=3.11,<4
 pytz>=2016.7
 pip>=7.0.0
