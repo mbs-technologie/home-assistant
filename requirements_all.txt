@@ -1,5 +1,5 @@
 # Home Assistant core
-requests>=2,<3
+requests>=2.32.4
 pyyaml>=3.11,<4
 pytz>=2016.7
 pip>=7.0.0
@@ -609,3 +609,4 @@ yahooweather==0.8
 
 # homeassistant.components.zeroconf
 zeroconf==0.17.6
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
